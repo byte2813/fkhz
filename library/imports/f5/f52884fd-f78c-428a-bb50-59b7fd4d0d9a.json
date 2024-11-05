@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开始 ",
+    "texture": "f1bffcc4-6af4-4a8c-beca-da3ff4852c34",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      271,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      271,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

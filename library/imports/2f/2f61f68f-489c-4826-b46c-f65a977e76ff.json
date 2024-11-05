@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "乐",
+    "texture": "9b9ea42d-579c-4469-ae2c-87806b0e068e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

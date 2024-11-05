@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "成语",
+    "texture": "2ee88c3d-8ed5-4810-b4c9-5aa3f634f077",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      257,
+      102
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      265,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

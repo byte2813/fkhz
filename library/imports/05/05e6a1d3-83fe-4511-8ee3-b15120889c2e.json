@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "大闯关",
+    "texture": "d8dc648e-61fb-4799-8a3a-56f7e2faffeb",
+    "atlas": "",
+    "rect": [
+      1,
+      8,
+      306,
+      100
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      309,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

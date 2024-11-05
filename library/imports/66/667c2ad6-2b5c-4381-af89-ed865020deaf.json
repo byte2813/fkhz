@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "疯狂汉字",
+    "texture": "5ebdaa37-8b3c-459a-a406-6cb842c19999",
+    "atlas": "",
+    "rect": [
+      19,
+      2,
+      441,
+      111
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      480,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

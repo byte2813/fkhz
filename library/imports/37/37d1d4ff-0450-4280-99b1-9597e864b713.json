@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "elimi",
+    "texture": "418fb40e-2d53-4843-9aca-3f218cacc737",
+    "atlas": "",
+    "rect": [
+      219,
+      413,
+      460,
+      75
+    ],
+    "offset": [
+      74,
+      216.5
+    ],
+    "originalSize": [
+      750,
+      1334
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "消消",
+    "texture": "ea985a5a-fcf0-4bd9-bd43-260b91299b86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      265,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      265,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
